@@ -1,6 +1,10 @@
 ## PAC-MAN 256 Decompression Patch
 - For easier Mdding and SaveGame Editing.
 
+### What does this do?
+- It modify's the SaveData and FileIO function in-game to deserialize, un-compress, and un-obfiscate the SaveGame.
+- Meaning all the variables and classes stored there are open to Editing and Modding without needing todo anything yourself.
+
 ### Installing:
 1. Download the Patch [Here (PC)](https://github.com/Cracko298/PAC-MAN-256-Decompression/raw/refs/heads/main/PACMAN256_DECOMPRESSION_PATCH.xdelta) and the [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest) for your System.
 2. Extract the Delta Patcher, run the Patcher executable.
