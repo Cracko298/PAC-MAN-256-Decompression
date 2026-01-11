@@ -1,5 +1,5 @@
 ## PAC-MAN 256 Decompression Patch
-- For easier Mdding and SaveGame Modifications.
+- For easier Mdding and SaveGame Editing.
 
 ### Installing:
 1. Download the Patch [Here (PC)](https://github.com/Cracko298/PAC-MAN-256-Decompression/raw/refs/heads/main/PACMAN256_DECOMPRESSION_PATCH.xdelta) and the [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest) for your System.
